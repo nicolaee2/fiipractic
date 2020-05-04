@@ -1,0 +1,121 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+.back{
+    width:75%;
+    text-align:center;
+    font-size:30px;
+    background-color:white;
+}
+
+.back a {
+
+    text-decoration: none;
+    color:black;
+}
+.back a:hover
+{
+    color:white;
+    background-color: black;
+}
+
+.back img 
+{
+    width:50px;
+    height:50px;
+    border-radius:100px;
+}
+
+.card img
+{
+    width:200px;
+    height:200px;
+}
+
+.anunt a
+{
+    text-decoration: none;
+    color:black;
+}
+
+.anunt
+{
+    width:75%;
+    margin:0 auto;
+}
+
+.anunt .card-title {
+
+    padding:20px;
+
+}
+
+#custom-search-input {
+    margin:0;
+    margin-top: 10px;
+    padding: 0;
+}
+ 
+#custom-search-input .search-query {
+    width:100%;
+    padding-right: 3px;
+    padding-left: 15px;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 0;
+}
+ 
+#custom-search-input button {
+    border: 0;
+    background: none;
+    /** belows styles are working good */
+    padding: 2px 5px;
+    margin-top: 2px;
+    position: absolute;
+    right:0;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color:#D9230F;
+    cursor: unset;
+    z-index: 2;
+}
+ 
+.search-query:focus{
+    z-index: 0;   
+}
+
+body 
+{
+	background-color:#fbfbff;
+}
+
+
+.login-form {
+    width: 85%;
+    margin: 50px auto;
+}
+.login-form form {
+    margin-bottom: 15px;
+    background: white;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+}
+.login-form h2 {
+    margin: 0 0 15px;
+}
+.form-control, .btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+.btn {        
+    font-size: 15px;
+    font-weight: bold;
+}
+.eroare
+{
+    color:red;
+}
