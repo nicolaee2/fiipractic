@@ -1,2 +1,2 @@
 # fiipractic
-proiect Fii Practic
+mai am unele lucruri de finalizat
