@@ -1,2 +1,3 @@
 # fiipractic
-mai am unele lucruri de finalizat
+mai am unele lucruri de finalizat/organizat
+
